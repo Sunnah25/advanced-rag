@@ -1,2 +1,2 @@
 # advanced-rag
-Smart Chunking
+Smart Chunking, Hybrid searching
